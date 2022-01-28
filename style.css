@@ -1,0 +1,14 @@
+.card{
+    margin-bottom: 10px;
+}
+
+
+
+/* this query is fired once the screen is bigger. see the difference play with commands */
+
+@media(min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
